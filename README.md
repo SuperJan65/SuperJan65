@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://https://mastodon.social/@Jeetje" rell="me"> Mastodon profile</a>
+<a href="https://mastodon.social/@Jeetje" rell="me"> Mastodon profile</a>
 <!--
 **SuperJan65/SuperJan65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
